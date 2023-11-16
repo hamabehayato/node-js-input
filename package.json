@@ -1,0 +1,14 @@
+{
+  "name": "js-input",
+  "version": "1.0.0",
+  "description": "Node.js インプット用リポジトリ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hamabe",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.53.0"
+  }
+}
